@@ -6,9 +6,15 @@
     border: 0;
 }
 
-h1 {
+#text-logo {
     font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    font-weight: 700;
     color: black;
+}
+
+#logo {
+    width: 224px;
 }
 
 /*
